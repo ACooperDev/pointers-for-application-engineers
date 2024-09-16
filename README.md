@@ -8,12 +8,14 @@ A curated list of topics to start learning application engineering as well as a 
 1. Fundamentals
    - Lighting
    - Lensing
-2. Lensing
-3. Easy Builder
-4. ...
-5. Links
-6. Tools
-7. 
+   - EasyBuilder
+   - Spreadsheet
+   - PC Vision
+2. Easy Builder
+3. ...
+4. Useful Links
+5. Useful Tools
+6. 
 
 ## 1. Fundamentals
 ### Lighting
@@ -25,8 +27,10 @@ A curated list of topics to start learning application engineering as well as a 
 -link
 
 
-## Handy Links
+## Useful Links
 - Link www.cognex.com
 
-## Handy Tools
-- Herculese 
+## Useful Tools
+- Hercules https://www.hw-group.com/software/hercules-setup-utility
+  - Networking tool capable of testing serial and TCP/IP comms (can be used to send NMC to ISVS products or DMC to DataMan)
+- 
