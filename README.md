@@ -14,17 +14,28 @@ Each topic includes a single reference for readers to gain familiarity and under
    - EasyBuilder
    - Spreadsheet
    - PC Vision
-2. Easy Builder
-3. ...
+2. Advanced
+   - PLC
+   - Motion Control
+   - Wiring
+   - Debug
 4. Useful Links
 5. Useful Tools
-6. 
 
 ## 1. Fundamentals
 ### Lighting
 - Practical https://www.advancedillumination.com/wp-content/uploads/2018/10/A-Practical-Guide-to-Machine-Vision-Lighting-v.-4-Generic.pdf
-
 ### Lensing
+- t
+### EasyBuilder
+- t
+### Spreadsheet
+- t
+### PC Vision
+- t
+  
+
+## 2. Advanced
  
 
 ### Lensing
