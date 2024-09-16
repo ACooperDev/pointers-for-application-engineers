@@ -23,7 +23,9 @@ Each topic includes a single reference for readers to gain familiarity and under
 ## 1. Fundamentals
 ### Lighting
 - Practical https://www.advancedillumination.com/wp-content/uploads/2018/10/A-Practical-Guide-to-Machine-Vision-Lighting-v.-4-Generic.pdf
--link
+
+### Lensing
+ 
 
 ### Lensing
 -link
@@ -32,6 +34,15 @@ Each topic includes a single reference for readers to gain familiarity and under
 
 ## Useful Links
 - Link www.cognex.com
+- The barn
+- Power BI
+- SalesForce
+- Concur
+- Bridge
+- Jira
+- WorkDay
+- ADP
+- 
 
 ## Useful Tools
 - Everything https://www.voidtools.com/
