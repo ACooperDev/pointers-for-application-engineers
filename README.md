@@ -34,17 +34,17 @@ Each topic includes a single reference for readers to gain familiarity and under
 ### PC Vision
 - t
   
-
 ## 2. Advanced
- 
-
-### Lensing
--link
--link
+### PLC
+- t
+### Motion Control
+- t
+### Debug
+- t
 
 
 ## Useful Links
-- Link www.cognex.com
+- Cognex www.cognex.com
 - The barn
 - Power BI
 - SalesForce
