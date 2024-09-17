@@ -25,7 +25,7 @@ Each topic includes a single reference for readers to gain familiarity and under
 ## 1. Fundamentals
 ### Lighting
 - Practical lighting techniques
-   https://www.advancedillumination.com/wp-content/uploads/2018/10/A-Practical-Guide-to-Machine-Vision-Lighting-v.-4-Generic.pdf
+   - https://www.advancedillumination.com/wp-content/uploads/2018/10/A-Practical-Guide-to-Machine-Vision-Lighting-v.-4-Generic.pdf
 ### Lensing
 - t
 ### EasyBuilder
