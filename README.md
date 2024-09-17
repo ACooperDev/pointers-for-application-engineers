@@ -45,13 +45,13 @@ Each topic includes a single reference for readers to gain familiarity and under
 
 ## Useful Links
 - Cognex www.cognex.com
-- The barn
+- The Barn https://cognexcorporation.sharepoint.com/sites/SPTechnicalServicesGlobal/Americas/TheBarn
 - Power BI
-- SalesForce
-- Concur
-- Bridge
+- SalesForce https://cognex-envision.lightning.force.com/
+- Concur https://www.concursolutions.com/
+- Bridge https://cognex.bridgeapp.com/
 - Jira
-- WorkDay
+- WorkDay https://www.myworkday.com/cognex/
 - ADP
 - 
 
