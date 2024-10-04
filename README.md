@@ -2,7 +2,7 @@
 
 A curated list of topics to start learning Application Engineering as well as a short list of useful links and tools.
 
-Pointers for Application Engineering is a complete open-source cirriculum designed to cover the funcamentals and practial topics most relevant to the industry today.  Think of this as an alternative or supplement to college or bootcamp education.  It aims to server as a guidebook for beginners and experienced engineers curious to seek references.
+Pointers for Application Engineering is a complete open-source cirriculum designed to cover the fundamentals and practial topics most relevant to the industry today.  Think of this as an alternative or supplement to college or bootcamp education.  It aims to server as a guidebook for beginners and experienced engineers curious to seek references.
 
 Each topic includes a single reference for readers to gain familiarity and understraning in a short period of time.  Turorials with clear content structure
 
