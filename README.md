@@ -61,4 +61,5 @@ Each topic includes a single reference for readers to gain familiarity and under
   - Configurable and blazing fast indexer capabale of locating files instantly. 
 - Hercules https://www.hw-group.com/software/hercules-setup-utility
   - Networking tool capable of testing serial and TCP/IP comms (can be used to send NMC to ISVS products or DMC to DataMan).
-- 
+- NVidia GPU  details console command
+  - nvidia-smi
